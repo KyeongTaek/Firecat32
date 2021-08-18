@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Firecat32
+- 👋 Hi, I was @Firecat32
 - 👀 I’m interested in learning coding language
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on nothing for now
